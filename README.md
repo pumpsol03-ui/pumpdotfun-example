@@ -6,6 +6,6 @@
 ```bash
 # install packages
 yarn install
-# start bundler when ready
+# start bot when ready
 yarn start
 ```
